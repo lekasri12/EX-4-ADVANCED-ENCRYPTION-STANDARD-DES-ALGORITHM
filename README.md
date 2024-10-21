@@ -1,4 +1,4 @@
-# EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 ## DATE:
 ## AIM:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
